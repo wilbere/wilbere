@@ -22,5 +22,5 @@ Below is a snapshot of the business value I deliver in my private contracts:
 ### 📫 Let's Connect
 If you are a CTO or Founder looking for a disciplined technical partner to stabilize your backend or scale your SaaS without the W2 overhead, let's talk architecture.
 
-- 💼 **LinkedIn:** [Connect with me here](TU_ENLACE_DE_LINKEDIN_AQUI)
-- ✉️ **Email:** wilber@wgalindez.dev (o el correo profesional que uses)
+- 💼 **LinkedIn:** [Connect with me here](https://www.linkedin.com/in/wilbere/)
+- ✉️ **Email:** wilber@wgalindez.dev 
